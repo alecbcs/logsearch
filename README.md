@@ -22,10 +22,10 @@ This command will re-query the system for the last command asked.
 
 ## Timeframes:
 This program has been designed with the hopes of give a nearly natural language experience which means you can use the phrase "2 days ago" to get the begining search date to two days before the current day.
-**Note: last week defaults to searching only the entry for 7 days ago. In order to search all the records for the last week you will need to use one of the special words**  
+**Note: last week defaults to searching only the entry for 7 days ago. In order to search all the records for the last week you will need to use one of the special words.**  
 
 
-#### Special words:
+### Special words:
 Using the words `"since" or "in"` will set the time frame end date to the current day.
 
 ### Examples of Valid Commands:
