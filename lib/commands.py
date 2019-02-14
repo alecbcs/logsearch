@@ -66,7 +66,7 @@ class Story(Command):
 
 class Number(Command):
     def __init__(self):
-        self._keywords = ["many", "number"]
+        self._keywords = ["many"]
 
     def process(self, user_input, dir_loc):
         self.update(user_input, dir_loc)
