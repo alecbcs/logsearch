@@ -29,7 +29,7 @@ This program has been designed with the hopes of give a nearly natural language 
 Using the words `"since" or "in"` will set the time frame end date to the current day.
 
 ### Examples of Valid Commands:
-`how many jobs have been submitted in the last week`
-`what is the average daily number of finished jobs in this last week`
-`how many jobs restarted yesterday`
-`how many array jobs were submitted 4 days ago`
+`how many jobs have been submitted in the last week`  
+`what is the average daily number of finished jobs in this last week`  
+`how many jobs restarted yesterday`  
+`how many array jobs were submitted 4 days ago`  
