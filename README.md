@@ -2,10 +2,10 @@
 A simple python program to search PBS scheduler accounting logs.
 
 ### Keywords:
-`submitted`: will filter for only submitted jobs.
-`finished`: will filter for only finished jobs.
-`restarted`: will filter for only restarted jobs.
-`array jobs`: will filter for only array jobs.
+`submitted`: will filter for only submitted jobs.  
+`finished`: will filter for only finished jobs.  
+`restarted`: will filter for only restarted jobs.  
+`array jobs`: will filter for only array jobs.  
 
 ## Current Supported Commands
 #### [Number]:
